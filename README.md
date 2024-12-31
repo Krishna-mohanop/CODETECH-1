@@ -3,7 +3,7 @@
 Name: Krishna mohan immadi
 Company:CODETECH IT SOLUTIONS
 ID:CT12EUH
-Domain:web development
+Domain:Front End development
 Duration:DEC-20-2024 FED-20-2025
 
 Todo List Application
